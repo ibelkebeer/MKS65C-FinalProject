@@ -1,4 +1,4 @@
-# MKS65C-handshake
+# MKS65C-FinalProject
 
 ### Make Commands
 1. `make` runs make all
